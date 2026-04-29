@@ -17,7 +17,7 @@ This project demonstrates basic CRUD operations (Create, Read, Update, Delete) w
 
 ### 🖼️ Preview
 
-![Posts Table](./screenshot.png)
+![Posts Table](./screenshot.PNG)
 
 ---
 
