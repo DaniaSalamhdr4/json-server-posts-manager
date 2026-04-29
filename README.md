@@ -45,13 +45,13 @@ It is perfect for frontend developers who want to test their applications withou
 1. Install JSON Server globally:
 
 ```bash
-npm install json-server
+npm install ./srver/json-server
 ```
 
 2. Run the server:
 
 ```bash
-npx json-server db.json
+npx json-server ./server/db.json
 ```
 
 3. Open your project in the browser.
